@@ -1,0 +1,8 @@
+django
+djangorestframework
+requests
+django-cors-headers
+tensorflow
+pillow
+openai
+python-dotenv
